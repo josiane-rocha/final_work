@@ -1,4 +1,4 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca1cd2c9-45a8-4333-879f-59cb2dce6e91/WhatsApp_Image_2021-08-10_at_15.01.11_(1).jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca1cd2c9-45a8-4333-879f-59cb2dce6e91/WhatsApp_Image_2021-08-10_at_15.01.11_(1).jpeg)
+
 
 ## **🔖 Sobre**
 
