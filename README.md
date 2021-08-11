@@ -10,7 +10,7 @@ Este projeto é um Site PWA em formato de cardápio que auxilia pessoas a melhor
 
 ## ****💥 **Para clonar repositório**
 
-'git clone [https://github.com/vm-bertini/Projeto-gama-frontend.git](https://github.com/vm-bertini/Projeto-gama-frontend.git)'
+`git clone https://github.com/josiane-rocha/final_work.git`
 
 ## ⚙ Para iniciar em ambiente de desenvolvimento
 
