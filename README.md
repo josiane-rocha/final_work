@@ -1,4 +1,4 @@
-
+<img src="bookfolio.png" alt="Logo App Bookfolio"/>
 
 ## **🔖 Sobre**
 
