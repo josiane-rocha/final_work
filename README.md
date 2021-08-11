@@ -1,4 +1,4 @@
-<img src="bookfolio.jpeg" alt="Logo App Bookfolio"/>
+<img src="Bookfolio.jpeg" alt="Logo App Bookfolio"/>
 
 ## **🔖 Sobre**
 
