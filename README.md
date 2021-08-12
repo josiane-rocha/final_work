@@ -29,3 +29,4 @@ Este projeto é um Site PWA em formato de cardápio que auxilia pessoas a melhor
 ## ⚙ **Teste o projeto aqui embaixo ↓**
 
 ## 🛸 Deploy
+https://bookfolio.herokuapp.com/
