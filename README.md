@@ -1,4 +1,5 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca1cd2c9-45a8-4333-879f-59cb2dce6e91/WhatsApp_Image_2021-08-10_at_15.01.11_(1).jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca1cd2c9-45a8-4333-879f-59cb2dce6e91/WhatsApp_Image_2021-08-10_at_15.01.11_(1).jpeg)
+![miniatura-linktree](miniatura-linktree.png)
+
 
 ## **🔖 Sobre**
 
@@ -30,8 +31,6 @@ Este projeto é um Site PWA em formato de cardápio que auxilia pessoas a melhor
 - **NODE.JS**
 - **API**
 
-## **⚙ Teste o projeto aqui embaixo ↓**
-
 ## **🛸 Deploy**
 
 ### Front-end (Página de acesso ao ususário):
@@ -41,3 +40,6 @@ htttp://www.bookfolio.com.br
 ### Back-end (Url para acesso a Api)
 
 [ht](https://bookfolio-api.herokuapp.com/)ttp://api.bookfolio.com.br/v1
+
+## **⚙ Teste o projeto PWA aqui embaixo ↓**
+http://www.bookfolio.com.br/
