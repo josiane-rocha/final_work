@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca1cd2c9-45a8-4333-879f-59cb2dce6e91/WhatsApp_Image_2021-08-10_at_15.01.11_(1).jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca1cd2c9-45a8-4333-879f-59cb2dce6e91/WhatsApp_Image_2021-08-10_at_15.01.11_(1).jpeg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## **🔖 Sobre**
 
-## Available Scripts
+Como proposta de desenvolvimento das habilidades  e sabendo que a pandemia, fez com que muitos negócios fossem impactados fortemente e pessoas diversas até mesmo ficaram sem emprego e sem renda. No entanto, assim como o empreendedorismo surge como uma grande solução para criar novos caminhos e possibilidades, podemos ter a certeza que muitos novos negócios surgirão e nós designers e desenvolvedores temos o poder nas mãos para contribuir com a sociedade e trazer soluções que auxiliem outras pessoas a vencerem esse momento, tendo assim como último desafio do XP 37 da Gama Academy a criação de um Site PWA em formato de cardápio, mostrando assim que podemos mesmo em meio a situações adversas criar algo novo para divulgar empresas e suas propostas.
 
-In the project directory, you can run:
+## **💻 Projeto**
 
-### `npm start`
+Este projeto é um Site PWA em formato de cardápio que auxilia pessoas a melhorarem seus hábitos de leitura, ele foi desenvolvido durante o Bootcamp do Gama Experience #37, pelo grupo 07, o objetivo dele é aplicar os conhecimentos dos designers e desenvolvedores adquiridos ao longo do bootcamp. Utilizamos os métodos de listagem de produtos, busca por um produto especifico, procura por livros de acordo com o número de páginas e autor, associando cada livro a seu respectivo gênero e detalhes do produto. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ****💥 **Para clonar repositório**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+``git clone [https://github.com/vm-bertini/Projeto-gama-frontend.git](https://github.com/vm-bertini/Projeto-gama-frontend.git)`´
 
-### `npm test`
+## ⚙ Para iniciar em ambiente de desenvolvimento (Front-end)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`npm start`
 
-### `npm run build`
+## ⚙ Para iniciar em ambiente de desenvolvimento (Back-end)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`npm run dev`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Tecnologias utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **HTML5**
+- **CSS3**
+- **JAVASCRIP**
+- **REACT.JS**
+- **MYSQL**
+- **NODE.JS**
+- **API**
 
-### `npm run eject`
+## **⚙ Teste o projeto aqui embaixo ↓**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## **🛸 Deploy**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Front-end (Página de acesso ao ususário):
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+htttp://www.bookfolio.com.br
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Back-end (Url para acesso a Api)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[ht](https://bookfolio-api.herokuapp.com/)ttp://api.bookfolio.com.br/v1
